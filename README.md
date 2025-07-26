@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="banner.png" alt="Sakyi Mustapha Banner" width="100%" />
-</p>
-
 # 👋 Hi, I'm Sakyi Mustapha
 
 Welcome to my GitHub profile! I'm a passionate backend developer with a strong foundation in web development using Python and its powerful frameworks. I enjoy building scalable, secure, and efficient web applications.
