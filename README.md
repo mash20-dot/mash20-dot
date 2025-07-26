@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a strong f
 ## 🚀 Tech Stack
 
 - 🐍 **Python**
-- 🌐 **Flask** (Python Web Framework)
+- 🌐 **Flask** and **Django** (Python Web Framework)
 - 🛢️ **MySQL** (Relational Database)
 - 🎨 **HTML** & 🖌️ **CSS** (Frontend Basics)
 - 🔐 **JWT Authentication**
