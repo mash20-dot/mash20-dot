@@ -2,17 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate backend developer with a strong foundation in web development using Python and its powerful frameworks. I enjoy building scalable, secure, and efficient web applications.
 
-## 🚀 Tech Stack
-
-- 🐍 **Python**
-- 🌐 **Flask** and **Django** (Python Web Framework)
-- 🛢️ **MySQL** (Relational Database)
-- 🎨 **HTML** & 🖌️ **CSS** (Frontend Basics)
-- 🔐 **JWT Authentication**
-- 🔧 **REST APIs**
-- 🧠 **MVC Architecture**
-- 🐞 **Debugging with `pdb`**
-
 ## 📫 Connect With Me
 
 - 📧 **Email**: sakyimustapha@gmail.com  
